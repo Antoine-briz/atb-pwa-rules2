@@ -1,6 +1,6 @@
 {
-  "name": "Antibio ICU - IPRA",
-  "short_name": "Antibio ICU - IPRA",
+  "name": "Antibio ICU",
+  "short_name": "Antibio ICU",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
